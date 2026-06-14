@@ -209,9 +209,8 @@ Este projeto foi desenvolvido com fins acadêmicos para demonstrar a integraçã
 
 ## 👨‍💻 Autor
 
-**Moisés José do Nascimento**
+**Moisés**
 
-Instituto Federal do Rio Grande do Norte (IFRN)
 
-GitHub: https://github.com/seu-usuario
+
 
